@@ -32,11 +32,10 @@ brew "hub"
 brew "jemalloc"
 brew "jq"
 brew "jsonpp"
+brew "mas"
 brew "maven"
 brew "mongodb"
 brew "mycli"
-brew "mysql@5.5"
-brew "mysql@5.6"
 brew "mysql@5.7", link: true
 brew "neofetch"
 brew "neovim"
@@ -65,3 +64,31 @@ brew "d12frosted/emacs-plus/emacs-plus"
 brew "heroku/brew/heroku"
 brew "joshuaclayton/formulae/unused"
 brew "puma/puma/puma-dev"
+mas "Apple Configurator 2", id: 1037126344
+mas "Bear", id: 1091189122
+mas "BetterSnapTool", id: 417375580
+mas "Evernote", id: 406056744
+mas "Keynote", id: 409183694
+mas "LastPass", id: 926036361
+mas "Microsoft OneNote", id: 784801555
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "UlyssesMac", id: 1225570693
+mas "Xcode", id: 497799835
+
+cask "slack"
+cask "sublime-text"
+cask "hipchat"
+cask "sublime-merge"
+cask "spotify"
+cask "istat-menus"
+cask "iterm2"
+cask "google-chrome"
+cask "launchcontrol"
+cask "postgres"
+cask "android-studio"
+cask "staruml"
+cask "postman"
+cask "cyberduck"
+cask "dropbox"
+cask "firefox"
