@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AlignTab",
+		"AutoHotkey",
+		"ayu",
+		"Babel",
+		"BeautifyRuby",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"DocBlockr",
+		"Focus File on Sidebar",
+		"GitGutter",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"sublime-terraform",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-ansible-lint",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"TerminalView"
+	],
+	"repositories":
+	[
+		"https://github.com/tmichel/sublime-terraform"
+	]
+}
